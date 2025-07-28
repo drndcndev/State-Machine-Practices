@@ -372,7 +372,7 @@
                             <Transition DisplayName="Continue" sap:VirtualizedContainerService.HintSize="451.33333333333326,502" sap2010:WorkflowViewState.IdRef="Transition_9">
                               <sap:WorkflowViewStateService.ViewState>
                                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                                  <av:PointCollection x:Key="ConnectorLocation">1105,496 1060.6945903900794,496 1060.6945903900794,440.3333333333333 1020,440.3333333333333</av:PointCollection>
+                                  <av:PointCollection x:Key="ConnectorLocation">1105,496 1075,496 1075,440.3333333333333 1020,440.3333333333333</av:PointCollection>
                                   <x:Int32 x:Key="SrcConnectionPointIndex">21</x:Int32>
                                   <x:Int32 x:Key="DestConnectionPointIndex">36</x:Int32>
                                 </scg:Dictionary>
@@ -393,7 +393,7 @@
             <Transition DisplayName="IsValid Input is NOT Valid" sap:VirtualizedContainerService.HintSize="451.3333333333333,502" sap2010:WorkflowViewState.IdRef="Transition_2">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                  <av:PointCollection x:Key="ConnectorLocation">760,205.33333333333331 340.82596275546047,205.33333333333331 340.82596275546047,630.3333333333334 835,630.3333333333334</av:PointCollection>
+                  <av:PointCollection x:Key="ConnectorLocation">760,205.33333333333331 352.178373623466,205.33333333333331 352.178373623466,630.3333333333334 835,630.3333333333334</av:PointCollection>
                   <x:Int32 x:Key="SrcConnectionPointIndex">37</x:Int32>
                   <x:Int32 x:Key="DestConnectionPointIndex">37</x:Int32>
                 </scg:Dictionary>
